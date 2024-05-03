@@ -8,9 +8,9 @@ hide:
 ## Official EdgeTX Partners
 
 <p align="center">
-<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyGold.png?raw=true" align="center" width="270"></a>
-<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterGold.png?raw=true" align="center" width="270"></a>
-<a href="https://www.jumper-rc.com/" target="_blank"><img src="/assets/Jumper.png?raw=true" align="center" width="270"></a>
+<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyGold.png?raw=true" align="center" width="167"></a>
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterGold.png?raw=true" align="center" width="340"></a>
+<a href="https://www.jumper-rc.com/" target="_blank"><img src="/assets/Jumper.png?raw=true" align="center" width="250"></a>
 </P>
 
  <p>&nbsp;</p> 
@@ -51,9 +51,9 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 **Partnership Tiers:**
 
 <p align="center">
-<img src="/assets/OfficialPartner.png?raw=true" align="center" width="60"></a>
-<img src="/assets/SilverPartner.png?raw=true" align="center" width="60"></a>
-<img src="/assets/GoldPartner.png?raw=true" align="center" width="60"></a>
+<img src="/assets/OfficialPartner.png?raw=true" align="center" width="120"></a>
+<img src="/assets/SilverPartner.png?raw=true" align="center" width="120"></a>
+<img src="/assets/GoldPartner.png?raw=true" align="center" width="120"></a>
 </P>
 
 We have created partnership tiers to acknowledge and reward our partners who provide substantial financial support to our project.  
