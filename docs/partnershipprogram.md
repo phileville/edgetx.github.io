@@ -8,8 +8,8 @@ hide:
 ## Official EdgeTX Partners
 
 <p align="center">
-<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyLogo.png?raw=true" align="center" width="270"></a>
-<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterLogo.png?raw=true" align="center" width="270"></a>
+<a href="https://www.flysky-cn.com/" target="_blank"><img src="/assets/FlySkyGold.png?raw=true" align="center" width="270"></a>
+<a href="https://www.radiomasterrc.com/" target="_blank"><img src="/assets/RadioMasterGold.png?raw=true" align="center" width="270"></a>
 <a href="https://www.jumper-rc.com/" target="_blank"><img src="/assets/Jumper.png?raw=true" align="center" width="270"></a>
 </P>
 
@@ -47,6 +47,24 @@ By participating in this program, the R/C radio manufacturers are helping suppor
  - Provide a reasonable number of hardware devices, as requested by the EdgeTX team, to be used for initial development and testing.
 
  - Provide a monthly or annual donation (amount to be agreed upon with the EdgeTX team) to help defray the cost of the online build systems, events, and other administrative expenses (to be used at the sole discretion of the EdgeTX team).
+
+**Partnership Tiers:**
+
+<p align="center">
+<img src="/assets/OfficialPartner.png?raw=true" align="center" width="60"></a>
+<img src="/assets/SilverPartner.png?raw=true" align="center" width="60"></a>
+<img src="/assets/GoldPartner.png?raw=true" align="center" width="60"></a>
+</P>
+
+We have created partnership tiers to acknowledge and reward our partners who provide substantial financial support to our project.  
+
+- Gold Partner: For monthly contributions of €500 or more.
+  
+- Silver Partner: For monthly contributions between € 250 and €499.
+  
+- Official Partner: For monthly contributions below €249.
+  
+We value the generous contributions of all our partners, and our partnership tiers are designed to recognize and appreciate their support.
 
 **Additional  important information:**
 
