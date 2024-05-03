@@ -59,11 +59,11 @@ By participating in this program, the R/C radio manufacturers are helping suppor
 
 We have created partnership tiers to acknowledge and reward our partners who provide substantial financial support to our project.  
 
-- Gold Partner: For monthly contributions of €500 or more.
+- Official Partner: For monthly contributions below €249.
   
 - Silver Partner: For monthly contributions between € 250 and €499.
   
-- Official Partner: For monthly contributions below €249.
+- Gold Partner: For monthly contributions of €500 or more.
   
 We value the generous contributions of all our partners, and our partnership tiers are designed to recognize and appreciate their support.
 
